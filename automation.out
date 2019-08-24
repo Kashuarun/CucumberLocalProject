@@ -1,0 +1,2 @@
+2019-08-24 10:08:48 INFO  TestBase:30 -Launching chrome browser
+2019-08-24 10:08:634 INFO  TestBase:60 -Loading the propertiesFile key=browser and value=chrome
